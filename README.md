@@ -4,7 +4,7 @@
 
 ## Deployed Heroku URL:
 
-
+https://emanote.herokuapp.com/
 
 ## Created Using:
 - HTML
