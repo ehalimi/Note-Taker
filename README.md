@@ -6,6 +6,10 @@
 
 https://emanote.herokuapp.com/
 
+<img src = "./public/assets/images/Screen Shot 2022-08-10 at 6.35.15 PM.png">
+
+<img src = "./public/assets/images/Screen Shot 2022-08-10 at 6.40.16 PM.png">
+
 ## Created Using:
 - HTML
 - CSS
